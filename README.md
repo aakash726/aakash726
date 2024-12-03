@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aakash Meena  
 
-![Profile Banner](https://user-images-placeholder-link) <!-- Add a custom banner link -->
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace this with your custom banner URL -->
 
 ### 🚀 About Me  
 - **B.Tech in Computer Science Engineering** | IIIT Bhagalpur  
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats  
 ![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash726&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash726&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=aakash726&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash726&layout=compact&theme=radical)
 
 ---
