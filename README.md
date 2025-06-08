@@ -27,15 +27,15 @@
 
 ## 📫 How to reach me:
 
-- 📧 Email: [aakashmeena@example.com](mailto:aakashmeena@example.com)
-- 💼 LinkedIn: [linkedin.com/in/aakashmeena](https://linkedin.com/in/aakashmeena)
+- 📧 Email: [aakashmeena421@gmail.com](mailto:aakashmeena421@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aakashmeena]([https://linkedin.com/in/aakashmeena](https://www.linkedin.com/in/aakash011/))
 - 🌐 Portfolio (coming soon)
 
 ---
 
 ## 🧠 Fun Facts
 
-- 🧪 I love experimenting with new startup ideas every week.
+- 🧪 I love experimenting with new startup ideas.
 - 📌 Believer in learning by building.
 - 🎯 On a mission to make a difference using technology, starting from my roots.
 
