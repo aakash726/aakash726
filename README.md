@@ -28,7 +28,7 @@
 ## 📫 How to reach me:
 
 - 📧 Email: [aakashmeena421@gmail.com](mailto:aakashmeena421@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aakashmeena]([https://linkedin.com/in/aakashmeena](https://www.linkedin.com/in/aakash011/))
+- 💼 LinkedIn:([https://linkedin.com/in/aakashmeena](https://www.linkedin.com/in/aakash011/))
 - 🌐 Portfolio (coming soon)
 
 ---
