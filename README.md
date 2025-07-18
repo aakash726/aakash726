@@ -1,55 +1,60 @@
 # 👋 Hi, I'm Aakash Meena
 
-🚀 Final-year Computer Science student passionate about building real-world applications using **AI**, **Machine Learning**, **Deep Learning**, and **Web3**.
-
-I love creating intelligent systems that make life easier, smarter, and more connected.
+🚀 I'm a final-year Computer Science student deeply passionate about **Machine Learning**, **Deep Learning**, **MLOps**, and building the **next-gen SocialFi apps** using **Web3**. Over the last 1.5 years, I've focused on AI and ML, and I'm currently building a fully on-chain social platform for the future of decentralized creator economies.
 
 ---
 
-## 🔧 Technologies & Skills
+## 🔧 Tech Stack
 
-- **Languages**: Python, JavaScript, C++
-- **AI/ML/DL**: Scikit-learn, TensorFlow, Keras, OpenCV, NLTK, Transformers
-- **MLOps**: ML pipeline development, model versioning, deployment
-- **Web3**: Smart contracts, Wallet integrations, NFT logic
-- **Backend**: Node.js, Express.js, MongoDB, JWT
-- **Frontend**: HTML, CSS, JavaScript
-- **Tools**: Git, VS Code, Jupyter, Postman
-
----
-
-## 🧠 My Projects
-
-### 🧵 AI & ML
-
-- 🎯 [Fashion Recommender System](https://github.com/aakash726/fashion-recommender-system)  
-  ML-powered recommendation engine for personalized fashion suggestions.
-
-- 😊 [Real-Time Face Emotion Detection](https://github.com/aakash726/Realtime_face_emotion_detection)  
-  Detects facial emotions in real-time using OpenCV and deep learning models.
-
-- 📈 [Amazon Stock Price Prediction](https://github.com/aakash726/Amazon_Stock_Price_Prediction)  
-  Time-series prediction of Amazon stock prices using LSTM and historical data.
-
-- 🔢 [Handwritten Digit Classification using ANN](https://github.com/aakash726/HandWritten_Digit_Classification_using_ANN)  
-  Classic digit classifier using an Artificial Neural Network on MNIST data.
-
-- ✍️ [Text Summarization Project](https://github.com/aakash726/text-summarization-project)  
-  Natural Language Processing (NLP) based abstractive text summarization model.
+- 💡 **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, OpenCV, NLP
+- ⚙️ **MLOps:** MLflow, DVC, Docker, CI/CD pipelines, Model Deployment
+- 🌐 **Web3 Development:** Solidity, Smart Contracts, Ethereum, Wallet Integration
+- 🛠️ **Backend & Tools:** Python, Node.js, Express, MongoDB, JWT Auth, Git
+- 💻 **Languages:** Python, C++, JavaScript
+- 📊 **DSA Enthusiast:** LeetCode, GFG, Competitive Coding
 
 ---
 
-### ⚙️ MLOps
+## 📈 DSA & Competitive Programming
 
-- 🛠 [MLOps: Complete ML Pipeline](https://github.com/aakash726/MLOPS-Complete_ML_Pipeline)  
-  A full machine learning pipeline with data ingestion, preprocessing, model training, evaluation, CI/CD, and deployment.
+- 🔹 **LeetCode:** [meena_rj01](https://leetcode.com/u/meena_rj01/)  
+  - 🧠 450+ problems solved  
+  - 🏅 1593 rating
+
+- 🔸 **GeeksforGeeks:** [coder_rj02](https://www.geeksforgeeks.org/user/coder_rj02/)  
+  - 🚀 Global Rank: **2279**  
+  - 🏅 GFG Score: **1830**
 
 ---
+
+## 💼 Projects
+
+### 🤖 Machine Learning & AI
+
+- [Fashion Recommender System](https://github.com/aakash726/fashion-recommender-system)  
+  A personalized fashion recommendation engine using content-based filtering and image analysis.
+
+- [Real-Time Face Emotion Detection](https://github.com/aakash726/Realtime_face_emotion_detection)  
+  Detects facial emotions in real-time using OpenCV and CNN models.
+
+- [Amazon Stock Price Prediction](https://github.com/aakash726/Amazon_Stock_Price_Prediction)  
+  Forecasts stock prices using LSTM-based deep learning models.
+
+- [Handwritten Digit Classification (ANN)](https://github.com/aakash726/HandWritten_Digit_Classification_using_ANN)  
+  Trained an artificial neural network to recognize digits from the MNIST dataset.
+
+- [Text Summarization Project](https://github.com/aakash726/text-summarization-project)  
+  Uses NLP techniques to generate extractive and abstractive summaries from long text.
+
+### 🔧 MLOps
+
+- [MLOPS - Complete ML Pipeline](https://github.com/aakash726/MLOPS-Complete_ML_Pipeline)  
+  End-to-end ML pipeline using version control, Docker, CI/CD, and deployment setup.
 
 ### 🌐 Web3 & SocialFi
 
-- 🌍 [Flikk: SocialFi Web3 App](https://github.com/aakash726/ScocialFi-Web3-App)  
-  A blockchain-enabled SocialFi app where users earn through tipping, NFT minting, and gamified profiles.
+- [SocialFi Web3 App](https://github.com/aakash726/ScocialFi-Web3-App)  
+  A fully on-chain SocialFi application built with wallet login, tipping, NFT badges, and gamified creator engagement.
 
 ---
 
