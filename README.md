@@ -1,45 +1,68 @@
-# 👋 Hello, I'm Aakash Meena
+# 👋 Hi, I'm Aakash Meena
 
-🎓 I'm currently pursuing B.Tech at **IIIT Bhagalpur**, passionate about using **Artificial Intelligence** and **Machine Learning** to solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm building **innovative AI-powered products** that aim to create impact — from **AI handwriting tools** to **healthcare and finance solutions**.
-- 🌱 Currently learning and working with:
-  - Machine Learning, Deep Learning
-  - Python, C++, JavaScript
-  - OpenCV, TensorFlow, PyTorch
-- 💡 Exploring opportunities where **technology meets real-world impact**, especially in **education, rural India, and digital infrastructure**.
+I'm a final-year engineering student passionate about AI, full-stack development, and building real-world products. I'm currently building **Flikk**, a SocialFi mobile app that rewards creators using Web3 technologies.
 
 ---
 
-## 💼 Projects & Interests
-
-- 🤖 AI-driven applications for daily life
-- 📊 FinTech and Healthcare AI solutions
-- ✨ Startup and product development
-- 🌐 Digital India and accessibility projects
-- 💬 Voice and vision-based AI tools
+## 💼 Currently Looking For:
+- **AI/ML Internships** or **Software Development Internships**  
+- Roles in **Machine Learning**, **React Native**, or **Full-Stack Development**
 
 ---
 
-## 📫 How to reach me:
+## 🧠 AI / Machine Learning Skills
 
-- 📧 Email: [aakashmeena421@gmail.com](mailto:aakashmeena421@gmail.com)
-- 💼 LinkedIn:([https://linkedin.com/in/aakashmeena](https://www.linkedin.com/in/aakash011/))
-- 🌐 Portfolio (coming soon)
-
----
-
-## 🧠 Fun Facts
-
-- 🧪 I love experimenting with new startup ideas.
-- 📌 Believer in learning by building.
-- 🎯 On a mission to make a difference using technology, starting from my roots.
+- **Languages**: Python, NumPy, Pandas, Scikit-learn
+- **Deep Learning**: TensorFlow, Keras, PyTorch (basics)
+- **Models**: CNNs, RNNs, LSTM, Transfer Learning
+- **Projects**:
+  - Image classification
+  - Sentiment analysis
+  - Recommendation systems (in progress)
+- **Math**: Linear Algebra, Probability, Optimization (working knowledge)
 
 ---
 
-> *"Build to solve, build to serve."*
+## 🔧 Tech Stack
+
+- **Frontend**: React Native, React.js, HTML/CSS, Tailwind
+- **Backend**: Node.js, Express, MongoDB, Firebase
+- **Web3**: Ethers.js (basic), NFT logic
+- **Tools**: Git, VS Code, Figma, Postman, Jupyter Notebooks
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Flikk – SocialFi Creator App](https://github.com/aakash601/flikk) (In Progress)
+> A mobile-first social platform where creators get rewarded via tipping, NFTs, and smart wallets.  
+> 🔸 React Native + Node.js + MongoDB  
+> 🔸 Web3 wallet + NFT UI + Profile features  
+> 🔸 Status: MVP under development
+
+### 🔹 [AI/ML Projects Repo](https://github.com/aakash601/ml-projects) *(Create this repo if not yet made)*
+> - Image classifier using CNN + Keras  
+> - Movie recommendation engine (collaborative filtering)  
+> - Text sentiment classifier using RNN  
+
+---
+
+## 🎯 What I'm Learning
+
+- Advanced backend with JWT & authentication
+- Deep learning with PyTorch
+- Smart contracts & decentralized storage
+- AI + Blockchain integration use cases
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: aakashmeena601@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/aakash-meena](https://www.linkedin.com/in/aakash011/)  
+- 💻 GitHub: [github.com/aakash601](https://github.com/aakash726)
+
+---
+
+> 💡 “I believe in learning by building — from AI models to social platforms.”
 
