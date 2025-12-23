@@ -15,7 +15,7 @@
 ### 🛠️ Languages and Tools:
 <p align="center">
   <!-- Programming & Dev -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,aws,vscode,figma" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,figma" /><br><br>
   
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
