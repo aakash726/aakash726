@@ -67,8 +67,8 @@ A full-stack AI voice generation platform with authentication, database integrat
 
 ---
 
-### 2️⃣ MeetAI – AI-Powered Video Call Platform
-🔗 Repository: https://github.com/aakash726/meetai  
+### 2️⃣ BrainZo – AI-Powered Video Call Platform
+🔗 Repository: https://github.com/aakash726/brainzo  
 
 An AI-powered video calling application integrating real-time communication, AI agents, and meeting intelligence features.
 
